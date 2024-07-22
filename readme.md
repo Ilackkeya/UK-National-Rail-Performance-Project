@@ -56,7 +56,7 @@ Built a predictive analytics model on predicting the delay using Logistic Regres
 Gathered visual insights utilizing matplotlib, seaborn libraries and Power BI ([UK National Rail Performance Overview.pbix](https://github.com/BrianLevesque/GC_CapstoneProject/blob/feature-ilackkeya/UK%20National%20Rail%20Performance%20Overview.pbix)) to answer our questions. 
 
 
-### Key Insights and Recommendations:
+### Key Insights and Recommendations
 
 **Delay Metrics:**
 
