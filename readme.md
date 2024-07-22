@@ -58,7 +58,7 @@ Gathered visual insights utilizing matplotlib, seaborn libraries and Power BI ([
 
 #### Key Insights and Recommendations:
 
-**#### Delay Metrics:**
+**Delay Metrics:**
 
 **Overall(%)**: 8.7%
 
@@ -91,7 +91,7 @@ London North Eastern Railways has closed 96.7% of delay compensation claims in t
 **Delay Prediction Model**: Model built with an accuracy of 91.25% with journey time being the most influencing factor in delay prediction.
 
 
-**#### Recommendations:**
+**Recommendations:**
 
 The clients can implement standardized guidelines for delay compensation claims across all operators, ensuring consistent and fair customer service while enhancing the user experience in railway transportation.
 
