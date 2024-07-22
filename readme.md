@@ -14,6 +14,9 @@
 
 ### Description
 
+![image](https://github.com/user-attachments/assets/941e5439-1749-4830-bcd2-5b9fec13865a)
+
+
 Welcome to our Repository! This repository hosts our Grand Circus's Final Capstone Project on Data Analytics and Engineering. The project has extensive data engineering and data analytics workflows which is essentially built to analyze the UK National Rail Schedule Performance. Our Client, **UK National Railway Board of Directors** wanted to understand the UK National Schedule Performance, delay compensation efficiency of Train Operating Companies (TOCs) in enhancing user experience and build a predictive model to predict any delay of a scheduled train.
 
 As Data Analysts, we gathered essential data from [UK National Rail Data Portal](https://opendata.nationalrail.co.uk/) accessing API’s Darwin feed and additional data from [ORR](https://dataportal.orr.gov.uk/) and [Network Rail](https://www.networkrail.co.uk/) to do our analysis. We developed a scalable data pipeline architecture using Kafka and Docker, hosted the live-streaming data (after necessary transformation steps) in AWS-RDS PostgreSQL database and performed comprehensive data ingestion, pre-processing and analysis to interpret the key insights.
