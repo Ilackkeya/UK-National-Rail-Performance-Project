@@ -56,7 +56,7 @@ Built a predictive analytics model on predicting the delay using Logistic Regres
 Gathered visual insights utilizing matplotlib, seaborn libraries and Power BI ([UK National Rail Performance Overview.pbix](https://github.com/BrianLevesque/GC_CapstoneProject/blob/feature-ilackkeya/UK%20National%20Rail%20Performance%20Overview.pbix)) to answer our questions. 
 
 
-#### Key Insights and Recommendations:
+### Key Insights and Recommendations:
 
 **Delay Metrics:**
 
@@ -91,7 +91,7 @@ London North Eastern Railways has closed 96.7% of delay compensation claims in t
 **Delay Prediction Model**: Model built with an accuracy of 91.25% with journey time being the most influencing factor in delay prediction.
 
 
-**Recommendations:**
+### Recommendations
 
 The clients can implement standardized guidelines for delay compensation claims across all operators, ensuring consistent and fair customer service while enhancing the user experience in railway transportation.
 
