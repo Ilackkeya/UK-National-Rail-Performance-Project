@@ -58,22 +58,29 @@ Gathered visual insights utilizing matplotlib, seaborn libraries and Power BI ([
 
 #### Key Insights and Recommendations:
 
-**Delay Metrics:**
+**#### Delay Metrics:**
 
-Overall (%) : 8.7%
-Time of the day : Between 2AM & 3AM
-Day of the week: Alternate days of the week
-Most Delayed Platforms: UM at Chester-le-Street and 15A at Leeds 
-Impact of Train Length: None
-Are Longer Journey Trains affected? Yes, journey time > 150 mins see significant delay in arrival/departure
-Are Busiest Stations experiencing more delays? No, they experience delay < 10 mins.
-Most delayed TOC: London North Eastern Railways (from our data collected)
+**Overall(%)**: 8.7%
+
+**Time of the day**: Between 2AM & 3AM
+
+**Day of the week**: Alternate days of the week
+
+**Most Delayed Platforms**: UM at Chester-le-Street and 15A at Leeds Rail Stations
+
+**Impact of Train Length**: None
+
+**Are Longer Journey Trains affected?** Yes, journey time > 150 mins see significant delay in arrival/departure
+
+**Are Busiest Stations experiencing more delays?** No, they experience delay < 10 mins.
+
+**Most delayed TOC**: London North Eastern Railways (from our data collected)
 
 ![image](https://github.com/user-attachments/assets/2f2be32f-5af5-4749-9bdd-86ae76bc721f)
 
 ![image](https://github.com/user-attachments/assets/bf016e34-e352-43d2-bad4-c868d4188414)
 
-**Delay Compensation Analysis**
+**#### Delay Compensation Analysis**
 
 ![image](https://github.com/user-attachments/assets/143ca8c9-b9ad-4b38-964f-7a2652ea7e2c)
 
@@ -81,9 +88,10 @@ London North Eastern Railways has closed 96.7% of delay compensation claims in t
 
 **Delay Compensation Efficiency of TOCs**: Cannot be determined, due to the non-uniform delay compensation policies set forward by the TOCs has hindered the assessment of their customer service efficiency in improving user experience.
 
-**Delay Prediction Model** : Model built with an accuracy of 91.25% with journey time being the most influencing factor in delay prediction.
+**Delay Prediction Model**: Model built with an accuracy of 91.25% with journey time being the most influencing factor in delay prediction.
 
-**Recommendations:**
+
+**#### Recommendations:**
 
 The clients can implement standardized guidelines for delay compensation claims across all operators, ensuring consistent and fair customer service while enhancing the user experience in railway transportation.
 
