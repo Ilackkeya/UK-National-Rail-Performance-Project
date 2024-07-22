@@ -76,11 +76,11 @@ Gathered visual insights utilizing matplotlib, seaborn libraries and Power BI ([
 
 **Most delayed TOC**: London North Eastern Railways (from our data collected)
 
-![image](https://github.com/user-attachments/assets/2f2be32f-5af5-4749-9bdd-86ae76bc721f)
+![image](https://github.com/user-attachments/assets/4441ba4b-9121-477c-b9a7-efa5056b80dc)
 
 ![image](https://github.com/user-attachments/assets/bf016e34-e352-43d2-bad4-c868d4188414)
 
-**#### Delay Compensation Analysis**
+**Delay Compensation Analysis**
 
 ![image](https://github.com/user-attachments/assets/143ca8c9-b9ad-4b38-964f-7a2652ea7e2c)
 
